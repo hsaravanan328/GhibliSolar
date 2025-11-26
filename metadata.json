@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ghibli Solar Forecast",
+  "description": "A whimsical, Studio Ghibli-inspired solar potential forecasting application using Gemini and Open-Meteo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
